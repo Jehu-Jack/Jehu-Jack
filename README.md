@@ -7,6 +7,10 @@
 - 👨‍💻 I’m interested in Web Development and Web Designing.
 - 🌱 I’m currently learning MERN Full Stack Web Development.
 
+## Connect with me:
+
+<a href = "https://www.linkedin.com/in/jehu-jack-3a2390225/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 
 <!---
 Jehu-Jack/Jehu-Jack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
